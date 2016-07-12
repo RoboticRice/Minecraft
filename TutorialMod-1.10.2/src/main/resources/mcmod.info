@@ -1,0 +1,16 @@
+[
+{
+  "modid": "myfirstmod",
+  "name": "My First Mod",
+  "description": "This is the first mod I've ever made, I'm excited to see what I can do.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RoboticRice"],
+  "credits": "The End.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
